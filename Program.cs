@@ -123,6 +123,9 @@ namespace My_Awesome_Program
             var rand = new Random();
 
             //Define the range of numbers
+            //rand.Next(0, 100) takes numbers including 0-99    ----- The last number (100) won't be included!
+            //You can either go crazy with something like (0, 100000) and also use multiplications and Divisions
+            //Play around as much as you want :D
 
             int num1 = rand.Next(0, 100);
             int num2 = rand.Next(0, 100);
