@@ -1,0 +1,15 @@
+To set up the program (If you aren't just using VS Code or smth with a C# Extension, you want to follow these steps:
+
+  Step one: Top right corner, look for the green download button and hit download zip
+  Step two: Extract that zip, it will give you a regular folder with some data
+  Step three: Open the folder you just downloaded and head to MathTrainer 3000 v4.0\bin\Debug\netcoreapp3.1
+  Step four: Open the "My Awesome Program.exe" 
+  
+  Step five: Enjoy the Program :D
+
+  Little Note: The range of numbers and types of operations can be changed as described in the README file:
+    Open up the .cs file
+    Scroll down to line 125+
+    You'll see those green notes written above some numbers. They describe, what you can do and where to do it. 
+    
+    Note: rand.Next([number 1], [number 2]) ---> Defines a range of numbers INCLUDING the first, EXCLUDING the last number
