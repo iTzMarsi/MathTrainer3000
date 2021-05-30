@@ -2,6 +2,8 @@
 Level up your Math Skills!!!
 
 --- This is a DOTNET project. If you can't do anything with this information, ignore it, some people will understand :)
+--- You may be running into some errors, due to this DotNet stuff. I haven't had the chance to try the code on another machine so you're experience is needed. Inform me if you 
+--- find any errors. As I said, Discord is the way to contact me. :D
 
 You want to refresh your math skills and get a little Training in Addition, Substraction, Multiplication and Division?
 
