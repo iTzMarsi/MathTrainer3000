@@ -1,0 +1,52 @@
+C:\Users\41797\Desktop\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.exe
+C:\Users\41797\Desktop\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.deps.json
+C:\Users\41797\Desktop\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.json
+C:\Users\41797\Desktop\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.dev.json
+C:\Users\41797\Desktop\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\41797\Desktop\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\41797\Desktop\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csprojAssemblyReference.cache
+C:\Users\41797\Desktop\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\41797\Desktop\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfo.cs
+C:\Users\41797\Desktop\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\41797\Desktop\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\41797\Desktop\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\41797\Desktop\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.genruntimeconfig.cache
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.exe
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.deps.json
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.json
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.dev.json
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csprojAssemblyReference.cache
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfo.cs
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\41797\Desktop\Programming Stuff\My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.genruntimeconfig.cache
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.exe
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.deps.json
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.json
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.dev.json
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csprojAssemblyReference.cache
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfo.cs
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\41797\Desktop\Programming Stuff\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.genruntimeconfig.cache
+C:\Users\konig\Documents\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.exe
+C:\Users\konig\Documents\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.deps.json
+C:\Users\konig\Documents\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.json
+C:\Users\konig\Documents\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.runtimeconfig.dev.json
+C:\Users\konig\Documents\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\konig\Documents\_My Awesome Program\bin\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\konig\Documents\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csprojAssemblyReference.cache
+C:\Users\konig\Documents\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\konig\Documents\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.AssemblyInfo.cs
+C:\Users\konig\Documents\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\konig\Documents\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.dll
+C:\Users\konig\Documents\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.pdb
+C:\Users\konig\Documents\_My Awesome Program\obj\Debug\netcoreapp3.1\My Awesome Program.genruntimeconfig.cache
